@@ -1,0 +1,11 @@
+C:\Users\Test\Desktop\The Educational Courses\1 - Programing Course\2 - Courses From 11 To 20\14 - The 14 Course\27 - The Game\1 - The 1 Lesson\bin\Debug\1 - The 1 Lesson.exe.config
+C:\Users\Test\Desktop\The Educational Courses\1 - Programing Course\2 - Courses From 11 To 20\14 - The 14 Course\27 - The Game\1 - The 1 Lesson\bin\Debug\1 - The 1 Lesson.exe
+C:\Users\Test\Desktop\The Educational Courses\1 - Programing Course\2 - Courses From 11 To 20\14 - The 14 Course\27 - The Game\1 - The 1 Lesson\bin\Debug\1 - The 1 Lesson.pdb
+C:\Users\Test\Desktop\The Educational Courses\1 - Programing Course\2 - Courses From 11 To 20\14 - The 14 Course\27 - The Game\1 - The 1 Lesson\obj\Debug\1 - The 1 Lesson.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\The Educational Courses\1 - Programing Course\2 - Courses From 11 To 20\14 - The 14 Course\27 - The Game\1 - The 1 Lesson\obj\Debug\_1___The_1_Lesson.Properties.Resources.resources
+C:\Users\Test\Desktop\The Educational Courses\1 - Programing Course\2 - Courses From 11 To 20\14 - The 14 Course\27 - The Game\1 - The 1 Lesson\obj\Debug\1 - The 1 Lesson.csproj.GenerateResource.cache
+C:\Users\Test\Desktop\The Educational Courses\1 - Programing Course\2 - Courses From 11 To 20\14 - The 14 Course\27 - The Game\1 - The 1 Lesson\obj\Debug\1 - The 1 Lesson.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\The Educational Courses\1 - Programing Course\2 - Courses From 11 To 20\14 - The 14 Course\27 - The Game\1 - The 1 Lesson\obj\Debug\1 - The 1 Lesson.exe
+C:\Users\Test\Desktop\The Educational Courses\1 - Programing Course\2 - Courses From 11 To 20\14 - The 14 Course\27 - The Game\1 - The 1 Lesson\obj\Debug\1 - The 1 Lesson.pdb
+C:\Users\Test\Desktop\The Educational Courses\1 - Programing Course\2 - Courses From 11 To 20\14 - The 14 Course\27 - The Game\1 - The 1 Lesson\obj\Debug\_1___The_1_Lesson.OXGame.resources
+C:\Users\Test\Desktop\The Educational Courses\1 - Programing Course\2 - Courses From 11 To 20\14 - The 14 Course\27 - The Game\1 - The 1 Lesson\obj\Debug\1 - The 1 Lesson.exe.config
